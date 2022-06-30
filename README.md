@@ -2,8 +2,8 @@
     <img src="https://telegra.ph/file/c4be34e7a11265554dee8.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Ynz</h1>
-/*<p align="center">
-  <a href="https://github.com/Ynz-Bot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Im+owner+Yanz BOT;My+Name+is+Yan;Learning+JavaScript!;Please+Support+Me+With+Donate;" alt="UwU">
+<p align="center">
+  <a href="https://github.com/Ynz-Bot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Saya+Akan+Kembali+Telat+Waktu" alt="UwU">
 </p>
 
 <p align="center">
@@ -79,4 +79,4 @@
 ## Visitor 💗
 <p align="center">
 <img src="https://count.caliphdev.my.id/get/@Ynz-Bot?theme=gelbooru-h" alt="visitor.svg">
-</p>*/
+</p>
