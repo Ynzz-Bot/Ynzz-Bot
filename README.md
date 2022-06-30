@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Ynz</h1>
 <p align="center">
-  <a href="https://github.com/Ynz-Bot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Saya+Akan+Kembali+Telat+Waktu" alt="UwU">
+  <a href="https://github.com/Ynz-Bot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Saya+Akan+Kembali+Tepat+Waktu" alt="UwU">
 </p>
 
 <p align="center">
